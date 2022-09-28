@@ -28,3 +28,4 @@ print(res)
 ![output](7k.png)
 
 ### RESULT:
+This program is used to find the distance between two points
